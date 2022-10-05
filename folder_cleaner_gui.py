@@ -102,7 +102,7 @@ def Submit():
     list_of_pic = [".img",".jpeg",".png",".gif",".psd",".jpg"]
     list_of_prog = [".exe",".msi"]
     list_of_vdo = [".mp4",".mkv"]
-    list_of_cpd = ['.rar',"7zip",".win",".tgz","tar","7z"]
+    list_of_cpd = [".zip",'.rar',".7zip",".win",".tgz","tar",".7z",".zip"]
     list_of_msc = [".mp3"]
     list_of_pro = [".py",".html",".htm",".c",".java",".cpp"]
     try:
